@@ -87,6 +87,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 
 <div style = "display: flex; ">
   <span style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span>
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101"/>  
@@ -99,12 +100,14 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
   <span style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
 </div>
 
 <div style = "display: flex; margin-left: 90px">
   <span style = "margin-left: 90px; font-weight: 800;">:pushpin: Deploy : </span>
   <img src="https://img.shields.io/badge/AmazonAWS-232FE3?style=flat-square&logo=AmazonAWS&logoColor=white"/>  
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub--blue?style=social&logo=github"/>  
 </div>
 
 ---
@@ -112,8 +115,8 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 <h3 align = "center">:paperclip:Contact Link:paperclip:<br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <a href="mailto:hongjun.yunuw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://andylang8445.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://www.instagram.com/h0ng_yun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://hongjunyun.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hongjunyun/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hongjunyun/"/></a>
 </div>
 
 ---
@@ -136,8 +139,8 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 
 ---
 
-![andylang8445's GitHub stats](https://github-readme-stats.vercel.app/api?username=andylang8445&count_private=true&show_icons=true&theme=dark)
+![HongjunYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunyun&count_private=true&show_icons=true&theme=dark)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andylang8445&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunyun&layout=compact&theme=radical" />
 
-<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandylang8445&count_bg=%233DC8C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongjunyun&count_bg=%233DC8C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
