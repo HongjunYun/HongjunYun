@@ -7,6 +7,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 :kr: From Korea<br>
 :computer: Computer Engineering (ECE)<br>
 📆: Class of 26'<br>
+🪖: Military Service ~2026.03.08
 </div>
 <br><br>
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
@@ -61,9 +62,9 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Co-op</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2024.01.15 ~</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2024.01.15 ~ 2024.04.26</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">Korea Fund Ratings<br>Student Intern</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Python, Machine Learning, MS Office suite, Documentation,<br>Communication, Data validation</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Python, Machine Learning, LangChain and RAG, Documentation,<br>Communication, Data validation, MS Office suite</td>
     </tr>
   </tbody>
 </table>
